@@ -28,6 +28,7 @@ hr{
   size: 20px;
 }
 .accordion {
+  
   width: 60%;
   --bs-accordion-border-color: white;
   --bs-accordion-border-width: 0;
