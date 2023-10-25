@@ -72,7 +72,7 @@
   }
   
   .hover {
-    animation: aumentarTamanho 1s forwards;
+    animation: scale 1s forwards;
     color: white;
     background-color: black;
     padding: 5px;
@@ -93,12 +93,12 @@
     font-size: 1.5rem;
   }
   
-  @keyframes aumentarTamanho {
+  @keyframes scale {
     from {
       transform: scale(1); /* Tamanho inicial da imagem */
     }
     to {
-      transform: scale(1.5); /* Tamanho final da imagem */
+      transform: scale(1.2); /* Tamanho final da imagem */
     }
   }
   
