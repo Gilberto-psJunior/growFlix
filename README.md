@@ -8,7 +8,7 @@ Projeto focado em estruturação de layout, responsividade e prática de estiliz
 ## 🌐 Deploy
 
 ✅ Acesse online aqui:  
-🔗 [https://gilberto-psjunior.github.io/growFlix/]([https://gilberto-psjunior.github.io/growFlix/](https://grow-flix-two.vercel.app/))
+🔗 https://grow-flix-two.vercel.app/
 
 ---
 
