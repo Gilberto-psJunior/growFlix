@@ -1,7 +1,3 @@
-<h1>Growflix</h1>
-
-<h2 style="display:flex;justify-content: center; ">Projeto criado com Bootstrap,javascript e css , no bootcamp starter webfullstack da Growdev</h2>
-
 # 🍿 GrowFlix
 
 Interface estática inspirada em plataformas de streaming como a Netflix, desenvolvida com **HTML5 e CSS3 puro**.  
